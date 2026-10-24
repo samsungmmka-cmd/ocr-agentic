@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="aYHvCaPhJkFxSxsfKbxq">
-    <mxGraphModel dx="1870" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,6 +156,20 @@
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-27" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="60" width="52" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-30" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="acf5bYjDD5l4hsow7SAu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-28" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="START" vertex="1">
+          <mxGeometry height="60" width="100" x="-330" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-32" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="ZCteQ2HGx3onwuNmrLfm-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-33" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="END" vertex="1">
+          <mxGeometry height="50" width="140" x="1520" y="475" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
