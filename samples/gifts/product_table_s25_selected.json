@@ -1,0 +1,36 @@
+{
+  "feedback_id": 312,
+  "campaign_id": 221,
+  "ocr": {
+    "name": "Lerato Mokoena",
+    "id_number": "9203030223085",
+    "country": "South Africa",
+    "invoice_no": "TK-90031",
+    "purchase_date": "2026-10-10",
+    "items": [
+      {
+        "imei_or_serial": "351234567890123",
+        "model": "Samsung Galaxy A55 128GB"
+      },
+      {
+        "imei_or_serial": "352222333444555",
+        "model": "Samsung SM-S931B Galaxy S25"
+      },
+      {
+        "imei_or_serial": "CHG-25W-0091",
+        "model": "Samsung 25W Travel Adapter"
+      }
+    ],
+    "store_name": "Takealot",
+    "confidence": 0.9
+  },
+  "user": {
+    "first_name": "Lerato",
+    "last_name": "Mokoena",
+    "imei_or_serial": "352222333444555",
+    "store_name": "Takealot.com",
+    "model": "Galaxy S25",
+    "submitted_date": "2026-10-21",
+    "selected_gift": "Buds3"
+  }
+}

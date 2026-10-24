@@ -1,0 +1,31 @@
+{
+  "feedback_id": 125,
+  "campaign_id": 221,
+  "ocr": {
+    "name": "Sarah Jacobs",
+    "id_number": "8501015800088",
+    "country": "South Africa",
+    "invoice_no": "INC-88001",
+    "purchase_date": "2026-08-20",
+    "items": [
+      {
+        "imei_or_serial": "352099001761481",
+        "model": "iPhone 16"
+      },
+      {
+        "imei_or_serial": null,
+        "model": "iPhone 16 Silicone Case"
+      }
+    ],
+    "store_name": "iStore Canal Walk",
+    "confidence": 0.55
+  },
+  "user": {
+    "first_name": "Sara",
+    "last_name": "Jacobs",
+    "imei_or_serial": "352099001761431",
+    "store_name": "MTN Stores",
+    "model": "Galaxy S25 Ultra",
+    "submitted_date": "2026-10-22"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "feedback_id": 124,
+  "campaign_id": 221,
+  "ocr": {
+    "name": "Thabo Nkosi",
+    "id_number": "8805125800081",
+    "country": "South Africa",
+    "invoice_no": "VS-55120",
+    "purchase_date": "2026-09-18",
+    "items": [
+      {
+        "imei_or_serial": "356789104599999",
+        "model": "Galaxy S25"
+      },
+      {
+        "imei_or_serial": null,
+        "model": "Screen protector"
+      }
+    ],
+    "store_name": "Vodacom Shop Menlyn",
+    "confidence": 0.91
+  },
+  "user": {
+    "first_name": "Thabo",
+    "last_name": "Nkosi",
+    "imei_or_serial": "356789104599999",
+    "store_name": "Vodacom",
+    "model": "Samsung Galaxy S25",
+    "submitted_date": "2026-10-01"
+  }
+}

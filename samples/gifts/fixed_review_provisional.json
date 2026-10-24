@@ -1,0 +1,34 @@
+{
+  "feedback_id": 303,
+  "campaign_id": 222,
+  "ocr": {
+    "name": "JOHN M SMITH",
+    "id_number": "9001015009087",
+    "gender": "M",
+    "dob": "1990-01-01",
+    "country": "South Africa",
+    "invoice_no": "INV-2026-77812",
+    "purchase_date": "2026-10-02",
+    "items": [
+      {
+        "imei_or_serial": "356789104512345",
+        "model": "Samsung SM-A556E/DS"
+      },
+      {
+        "imei_or_serial": "123",
+        "model": "mobile Pouch"
+      }
+    ],
+    "store_name": "MTN Southafrica",
+    "store_address": "Shop 12, Sandton City, Johannesburg",
+    "confidence": 0.5
+  },
+  "user": {
+    "first_name": "John",
+    "last_name": "Smith",
+    "imei_or_serial": "356789104512345",
+    "store_name": "MTN Stores",
+    "model": "Galaxy A55",
+    "submitted_date": "2026-10-20"
+  }
+}
