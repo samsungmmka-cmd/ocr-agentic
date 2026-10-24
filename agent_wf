@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="aYHvCaPhJkFxSxsfKbxq">
-    <mxGraphModel dx="1381" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1726" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,23 +27,23 @@
         <mxCell id="acf5bYjDD5l4hsow7SAu-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="validate with the user inputs" vertex="1">
           <mxGeometry height="60" width="120" x="365" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="acf5bYjDD5l4hsow7SAu-10" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=light-dark(#6C8EBF,#FFFFFF);" target="acf5bYjDD5l4hsow7SAu-9" value="">
+        <mxCell id="acf5bYjDD5l4hsow7SAu-21" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;dashed=1;dashPattern=8 8;startArrow=classic;startFill=1;" target="acf5bYjDD5l4hsow7SAu-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="acf5bYjDD5l4hsow7SAu-21" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;dashed=1;dashPattern=8 8;startArrow=classic;startFill=1;" target="acf5bYjDD5l4hsow7SAu-20" value="">
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-41" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ZCteQ2HGx3onwuNmrLfm-34" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="validate with the history" vertex="1">
           <mxGeometry height="60" width="120" x="750" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="acf5bYjDD5l4hsow7SAu-12" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=light-dark(#6C8EBF,#FFFFFF);" target="acf5bYjDD5l4hsow7SAu-11" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-23" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;dashPattern=8 8;startArrow=classic;startFill=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" target="acf5bYjDD5l4hsow7SAu-22" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-43" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="acf5bYjDD5l4hsow7SAu-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-9" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="generate final output" vertex="1">
-          <mxGeometry height="60" width="120" x="935" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="1084" y="470" as="geometry" />
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-19" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ZCteQ2HGx3onwuNmrLfm-18" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           <mxGeometry height="60" width="195" x="712.5" y="640" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Open Sans;align=right;spacingLeft=10;verticalAlign=top;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;dashed=1;dashPattern=12 12;spacingRight=20;" value="&lt;div&gt;- feedback id&lt;/div&gt;&lt;div&gt;- ai summary&lt;/div&gt;&lt;div&gt;- formatted ocr vs user result&lt;/div&gt;&lt;div&gt;in json&lt;br&gt;etc...&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="195" x="990" y="225" as="geometry" />
+          <mxGeometry height="85" width="195" x="1139" y="225" as="geometry" />
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="Upload TC file" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="152.5" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry height="60" width="120" x="1470" y="470" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-22" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="AI Reasoning" vertex="1">
-          <mxGeometry height="60" width="120" x="935" y="280" as="geometry" />
+          <mxGeometry height="60" width="120" x="1084" y="280" as="geometry" />
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-37" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="acf5bYjDD5l4hsow7SAu-5">
           <mxGeometry relative="1" as="geometry" />
@@ -167,14 +167,18 @@
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-33" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="END" vertex="1">
           <mxGeometry height="50" width="140" x="1660" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="ZCteQ2HGx3onwuNmrLfm-35" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=light-dark(#6C8EBF,#FFFFFF);" target="ZCteQ2HGx3onwuNmrLfm-34" value="">
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-42" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="acf5bYjDD5l4hsow7SAu-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-44" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;dashPattern=8 8;" target="ZCteQ2HGx3onwuNmrLfm-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1055" y="500" as="sourcePoint" />
-            <mxPoint x="1260" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="977" y="285" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-34" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Assign gift or voucher if claim success" vertex="1">
-          <mxGeometry height="60" width="120" x="1103" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="917" y="470" as="geometry" />
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-39" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="acf5bYjDD5l4hsow7SAu-7">
           <mxGeometry relative="1" as="geometry" />
