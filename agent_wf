@@ -154,8 +154,8 @@
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;RAG&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="360" y="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZCteQ2HGx3onwuNmrLfm-27" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/databases/1/DocumentDB.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="60" width="45.25" x="480" y="110" as="geometry" />
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-27" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="60" width="52" x="480" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
