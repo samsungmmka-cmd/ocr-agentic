@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="aYHvCaPhJkFxSxsfKbxq">
-    <mxGraphModel dx="1582" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1835" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="acf5bYjDD5l4hsow7SAu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="" vertex="1">
-          <mxGeometry height="180" width="960" x="330" y="410" as="geometry" />
+          <mxGeometry height="180" width="1100" x="330" y="410" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-6" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=light-dark(#6C8EBF,#FFFFFF);" target="acf5bYjDD5l4hsow7SAu-5" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="acf5bYjDD5l4hsow7SAu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="validate with the history" vertex="1">
           <mxGeometry height="60" width="120" x="750" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="acf5bYjDD5l4hsow7SAu-12" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=light-dark(#6C8EBF,#FFFFFF);" target="acf5bYjDD5l4hsow7SAu-11" value="">
+        <mxCell id="acf5bYjDD5l4hsow7SAu-12" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=light-dark(#6C8EBF,#FFFFFF);" target="acf5bYjDD5l4hsow7SAu-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-23" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;dashPattern=8 8;startArrow=classic;startFill=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" target="acf5bYjDD5l4hsow7SAu-22" value="">
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-11" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="send to the result api" vertex="1">
-          <mxGeometry height="60" width="120" x="1130" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="1270" y="470" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-19" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;dashPattern=8 8;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;startArrow=classic;startFill=1;" target="acf5bYjDD5l4hsow7SAu-5">
           <mxGeometry relative="1" x="-0.0006" as="geometry" />
@@ -129,15 +129,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-17" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;dashed=1;dashPattern=12 12;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" target="ZCteQ2HGx3onwuNmrLfm-12">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry relative="1" x="0.04" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="380" />
+              <mxPoint x="1320" y="380" />
               <mxPoint x="679.6" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-18" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;roundedPerimeter=1;" value="&lt;div&gt;Result end-point&lt;/div&gt;&lt;div&gt;(Internal API)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1330" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="1470" y="470" as="geometry" />
         </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-22" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="AI Reasoning" vertex="1">
           <mxGeometry height="60" width="120" x="935" y="280" as="geometry" />
@@ -165,11 +165,20 @@
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-32" edge="1" parent="1" source="ZCteQ2HGx3onwuNmrLfm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="ZCteQ2HGx3onwuNmrLfm-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1520" y="500" as="targetPoint" />
+            <mxPoint x="1660" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-33" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="END" vertex="1">
-          <mxGeometry height="50" width="140" x="1520" y="475" as="geometry" />
+          <mxGeometry height="50" width="140" x="1660" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-35" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=light-dark(#6C8EBF,#FFFFFF);" target="ZCteQ2HGx3onwuNmrLfm-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="500" as="sourcePoint" />
+            <mxPoint x="1260" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCteQ2HGx3onwuNmrLfm-34" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Assign gift or voucher if claim success" vertex="1">
+          <mxGeometry height="60" width="120" x="1103" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
