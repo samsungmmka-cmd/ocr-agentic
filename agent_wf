@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="aYHvCaPhJkFxSxsfKbxq">
-    <mxGraphModel dx="1442" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,6 @@
         <mxCell id="acf5bYjDD5l4hsow7SAu-9" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="generate final output" vertex="1">
           <mxGeometry height="60" width="120" x="935" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="acf5bYjDD5l4hsow7SAu-25" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;dashPattern=12 12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" target="acf5bYjDD5l4hsow7SAu-24" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-19" edge="1" parent="1" source="acf5bYjDD5l4hsow7SAu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ZCteQ2HGx3onwuNmrLfm-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -72,11 +69,8 @@
         <mxCell id="acf5bYjDD5l4hsow7SAu-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="tool to validate history for the campaign name" vertex="1">
           <mxGeometry height="60" width="195" x="712.5" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="acf5bYjDD5l4hsow7SAu-22" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="AI Reasoning" vertex="1">
-          <mxGeometry height="60" width="120" x="935" y="280" as="geometry" />
-        </mxCell>
         <mxCell id="acf5bYjDD5l4hsow7SAu-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Open Sans;align=left;spacingLeft=10;verticalAlign=top;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;dashed=1;dashPattern=12 12;" value="&lt;div&gt;- feedback id&lt;/div&gt;&lt;div&gt;- ai summary&lt;/div&gt;&lt;div&gt;- formatted ocr vs user result&lt;/div&gt;&lt;div&gt;in json&lt;br&gt;etc...&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="231.25" x="1230" y="267.5" as="geometry" />
+          <mxGeometry height="85" width="231.25" x="800" y="225" as="geometry" />
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="Upload TC file" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="152.5" as="geometry" />
@@ -148,6 +142,9 @@
         </mxCell>
         <mxCell id="ZCteQ2HGx3onwuNmrLfm-18" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;roundedPerimeter=1;" value="&lt;div&gt;Result end-point&lt;/div&gt;&lt;div&gt;(Internal API)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1330" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="acf5bYjDD5l4hsow7SAu-22" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Open Sans;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" value="AI Reasoning" vertex="1">
+          <mxGeometry height="60" width="120" x="935" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
